@@ -1,6 +1,6 @@
 # EX---2A-ORACLE-VM-VIRTUAL-BOX-INSTALLATION--
 ```
-Name: Senthil Raj
+Name: Senthil Raj G
 Register Number: 212224100054
 ```
 ## AIM:
