@@ -1,7 +1,7 @@
-# EX---3-ORACLE-VM-VIRTUAL-BOX-INSTALLATION--
+# EX---2A-ORACLE-VM-VIRTUAL-BOX-INSTALLATION--
 ```
-Name: SANTHOSH S
-Register Number: 212224100052
+Name: Senthil Raj
+Register Number: 212224100054
 ```
 ## AIM:
 To install Oracle VM VirtualBox, a free and open-source hosted hypervisor, on a computer system,enabling the creation and management of virtual machines for running multiple operating systems on a single host machine
